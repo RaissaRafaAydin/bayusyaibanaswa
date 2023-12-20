@@ -1,0 +1,42 @@
+<template>
+    <div class="page">
+        <div class="navbar">
+          <div class="navbar-bg"></div>
+          <div class="navbar-inner sliding">
+            <div class="title">Grand Galaxy Park</div>
+            <div class="title"></div>
+          </div>
+        </div>
+        <div class="page-content">
+          
+          
+          <div class="block-title"></div>
+    <div class="block block-strong inset">
+      <p align="justify">Mall Grand Galaxy Park di Bekasi merupakan mall terbesar di Bekasi dengan luas 31 ribu meter persegi dan termasuk berada di kawasan elit daerah Bekasi.
+
+        Mall ini mengusung go green, makanya tidak jarang menemukan banyak tumbuhan di area mall, menambah kesan tampilan yang indah.
+        
+        Memiliki 90 ruang unit usaha, dengan 3 lantai pusat perbelanjaan. peresmiannya tanggal 8 November 2013, dan tetap berdiri hingga saat ini.
+        
+        Pusat perbelanjaan ini merupakan salah satu pusat perbelanjaan populer di daerah Bekasi. Di dalamnya menyajikan berbagai wahana tempat hangout atau kuliner makanan khas Bekasi dan Nusantara.
+        
+        Nongkrong bukan lagi merupakan hal asing, karena banyak orang saat ini dari berbagai kalangan memilih nongkrong asik di tempat-tempat khusus hangout salah satunya seperti kafe-kafe yang ada di Mall.</p>
+        <div class="map"><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3965.947588679692!2d106.96972197370071!3d-6.270623161383215!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e698dbcd826fd99%3A0x4718498e43c68e02!2sGrand%20Galaxy%20Park!5e0!3m2!1sid!2sid!4v1703057885398!5m2!1sid!2sid" width="330" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe></div>
+    </div>
+          
+        </div>
+
+        <!-- Toolbar-->
+        <div class="toolbar toolbar-bottom">
+            <div class="toolbar-inner">
+              <a href="/atomic/" class="item-content item-link">---Kembali---</a>
+            </div>
+          </div>
+          <!-- Scrollable page content-->
+      </div>
+  </template>
+  <script>
+  export default () => {
+    return $render;
+  }
+  </script>

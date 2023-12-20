@@ -1,0 +1,180 @@
+<template>
+    <div class="page">
+        <div class="navbar">
+          <div class="navbar-bg"></div>
+          <div class="left">
+            <a href="#" class="link icon-only panel-open" data-panel="left">
+              <i class="icon f7-icons if-not-md">menu</i>
+              <i class="icon material-icons if-md">menu</i>
+            </a>
+          </div>
+          
+        </div>
+        <div class="page-content">
+          <div class="block">
+            <p><h2>Bekasi Selatan</h2></p>
+          </div>
+          <div class="demo-expandable-cards">
+            
+            <!-- content image start -->
+            
+            <div class="card card-expandable">
+              <div class="card-content">
+                <div style="background: url(https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiQo3O5M13ko-bmaEPcogLoBtHYI9vf3axgYEC5RDN3gRTMEbAk7aEr-QwI7OcdSFZmZ0kcq-DxTtcKksV0cS6nyHzIpQsgdVPsdWwBICL-w-Q6QvZ1yAFjgI-abBhHQv0xYLg3Khq9vvBtijzzB9gyZrTNE4kU0XLI6lGNnINNmk1ldJtQUy-W10W2flY/s320/SummareconBekasi.png) no-repeat center bottom; background-size: cover; height: 240px">
+                </div>
+                <a class="link card-close card-opened-fade-in color-white" style="position: absolute; right: 15px; top: 15px">
+                  <i class="icon f7-icons">xmark_circle_fill</i>
+                </a>
+                <div class="card-header display-block" style="height: 60px">
+                  Summarecon Bekasi
+                </div>
+                <div class="card-content-padding">
+                  <p><h2>Tentang</h2></p>
+                  <p align="justify"> Summarecon Bekasi adalah sebuah kawasan hunian dan perdagangan yang dikembangkan oleh PT Summarecon Agung Tbk. Pembangunan Summarecon Bekasi dimulai pada tahun 2005 dan telah berkembang menjadi kawasan yang menyediakan berbagai fasilitas, termasuk pusat perbelanjaan, taman, dan fasilitas rekreasi. Tempat ini menjadi destinasi yang menarik bagi warga Bekasi dan sekitarnya untuk berbelanja, berlibur, dan menikmati berbagai kegiatan.
+
+                  </p>
+                  
+                  <p>
+                    <a href="/sumarecon/" class="button button-fill button-round button-large card-close">Baca </a>
+                  </p>
+                </div>
+              </div>
+            </div>
+
+            <div class="card card-expandable">
+              <div class="card-content">
+                <div style="background: url(https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhOQLsgnUtBbvNWMijg7fDO_H736Cok0gCabK1e8BjOtqq0fw2QDNCuyu2Z_V-zS4wKD0HCZB7aDiVN2cx089AObwZuarb9fsP0P8_Lho2Oy3l-5z0nf9BkG9uddKixo2bfbCXTX61ZDHQRGBm_YuxEow5pMZkdjMW2jcugwH5BExS3yt7SSRQGAwLl6EE/s320/KolamRenangAnggrekSportClub.png) no-repeat center bottom; background-size: cover; height: 240px">
+                </div>
+                <a class="link card-close card-opened-fade-in color-white" style="position: absolute; right: 15px; top: 15px">
+                  <i class="icon f7-icons">xmark_circle_fill</i>
+                </a>
+                <div class="card-header display-block" style="height: 60px">
+                  Kolam Renang Anggrek Sport Club
+                </div>
+                <div class="card-content-padding">
+                  <p><h2>Tentang</h2></p>
+                  <p align="justify">
+                    Mengisi waktu liburan di tempat wisata hits Bekasi jangan hanya pergi ke mall atau tempat wisata alamnya saja. Agar lebih berwarna Anda juga harus berkunjung ke kolam renang di Bekasi berikut ini.
+
+Ada banyak sekali pilihan kolam renang di Bekasi yang bisa Anda pilih. Anda dapat pergi ke kolam renang biasa, kolam dengan wahana permainan serunya, atau kolam renang mewah yang ada di hotel semua tersedia.
+
+
+                  </p>
+                  
+                  <p>
+                    <a href="/kolam/" class="button button-fill button-round button-large card-close">Baca </a>
+                  </p>
+                </div>
+              </div>
+            </div>
+            
+            <div class="card card-expandable">
+              <div class="card-content">
+                <div style="background: url(https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgdymkp2e25RGIz4AleY286tLlmj3LFEz5jyNWOJOKKzG_dwCBz5Qz__GGrCxADqUoaweGoq-j9AydVF71qJp2Pr7G92dgQLSumGIbQ3j5d_LwbxjuAUsQ9JbygQR1_hguIwv7BoHax4-4LjNTiDweRzAR8UTuXdI_hj2D7mCLD-AdrFYwyhPi1IGXeSrI/s320/TheBreezeBSDCity.png) no-repeat center bottom; background-size: cover; height: 240px">
+                </div>
+                <a class="link card-close card-opened-fade-in color-white" style="position: absolute; right: 15px; top: 15px">
+                  <i class="icon f7-icons">xmark_circle_fill</i>
+                </a>
+                <div class="card-header display-block" style="height: 60px">
+                  The Breeze BSD City
+                </div>
+                <div class="card-content-padding">
+                  <p align="justify">The Breeze BSD City adalah pusat perbelanjaan dan hiburan yang terletak di Bekasi Selatan. Dengan konsep outdoor yang menyenangkan, tempat ini menawarkan berbagai toko, restoran, dan kegiatan hiburan. Sejak berdiri, The Breeze BSD City telah menjadi salah satu destinasi favorit warga Bekasi Selatan.
+
+                  </p>
+                  <p>
+                    <a href="/bsd/" class="button button-fill button-round button-large card-close" >Baca </a>
+                  </p>
+                </div>
+              </div>
+            </div>
+
+            <!-- <div class="card card-expandable">
+              <div class="card-content">
+                <div style="background: url(https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj_lZRN2NCVajP5YG4iLXmkeaveLvWTh_ssuNef81Dhrd6kv979yOkPOQ4I2xvAm7Un3wWsP0wbFdOMBFRVMFxTmDHzOVjyfiz2w9GIY8VSIbdn4bFtv1MgG-_FJlAJ_lpOlz3p0hcfu5j8AQgMTjt7t1W2c67q1L-bUoNPvCC613gkGJj__9LDC-Dw4yoK/s320/tidak.png) no-repeat center bottom; background-size: cover; height: 240px">
+                </div>
+                <a class="link card-close card-opened-fade-in color-white" style="position: absolute; right: 15px; top: 15px">
+                  <i class="icon f7-icons">xmark_circle_fill</i>
+                </a>
+                <div class="card-header display-block" style="height: 60px">
+                  Berani tidak disukai 
+                </div>
+                <div class="card-content-padding">
+                  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam cursus rhoncus cursus. Etiam lorem est,
+                    consectetur vitae tempor a, volutpat eget purus. Duis urna lectus, vehicula at quam id, sodales dapibus
+                    turpis. Suspendisse potenti. Proin condimentum luctus nulla, et rhoncus ante rutrum eu. Maecenas ut
+                    tincidunt diam. Vestibulum lacinia dui ligula, sit amet pulvinar nisl blandit luctus. Vestibulum aliquam
+                    ligula nulla, tincidunt rhoncus tellus interdum at. Phasellus mollis ipsum at mollis tristique. Maecenas
+                    sit amet tempus justo. Duis dolor elit, mollis quis viverra quis, vehicula eu ante. Integer a molestie
+                    risus. Vestibulum eu sollicitudin massa, sit amet dictum sem. Aliquam nisi tellus, maximus eget placerat
+                    in, porta vel lorem. Aenean tempus sodales nisl in cursus. Curabitur tincidunt turpis in nisl ornare
+                    euismod eget at libero.</p>
+                  <p>Suspendisse ligula eros, congue in nulla pellentesque, imperdiet blandit sapien. Morbi nisi sem,
+                    efficitur a rutrum porttitor, feugiat vel enim. Fusce eget vehicula odio, et luctus neque. Donec mattis a
+                    nulla laoreet commodo. Integer eget hendrerit augue, vel porta libero. Morbi imperdiet, eros at ultricies
+                    rutrum, eros urna auctor enim, eget laoreet massa diam vitae lorem. Proin eget urna ultrices, semper
+                    ligula aliquam, dignissim eros. Donec vitae augue eu sapien tristique elementum a nec nulla. Aliquam erat
+                    volutpat. Curabitur condimentum, metus blandit lobortis fringilla, enim mauris venenatis neque, et
+                    venenatis lorem urna ut justo. Maecenas neque enim, congue ac tempor quis, tincidunt ut mi. Donec
+                    venenatis ante non consequat molestie. Quisque ut rhoncus ligula. Vestibulum sodales maximus justo sit
+                    amet ornare. Nullam pulvinar eleifend nisi sit amet molestie.</p>
+                  <p>
+                    <a class="button button-fill button-round button-large card-close">Close</a>
+                  </p>
+                </div>
+              </div>
+            </div> -->
+
+            <!-- <div class="card card-expandable">
+              <div class="card-content">
+                <div style="background: url(https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhCJDgdhSs3nUHyOCNBhb4Uuht9X_XfZkqjSEZJrlUUMQj0ES-QXQUD1v-VWY_tFZ9sVfQm6t78BGgcQizuCewqYUfNRyBdBlQjbex3_7hyphenhyphenMq33IlbL-xJ6hIUasBC_aOFNd0QdDhdedNkzLYYvWSdiCl-SCx10ZhhLKeqPYyfx9U_WB45__XFp9LqVoR24/s320/dad.png) no-repeat center bottom; background-size: cover; height: 240px">
+                </div>
+                <a class="link card-close card-opened-fade-in color-white" style="position: absolute; right: 15px; top: 15px">
+                  <i class="icon f7-icons">xmark_circle_fill</i>
+                </a>
+                <div class="card-header display-block" style="height: 60px">
+                  Rich Dad Poor Dad
+                </div>
+                <div class="card-content-padding">
+                  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam cursus rhoncus cursus. Etiam lorem est,
+                    consectetur vitae tempor a, volutpat eget purus. Duis urna lectus, vehicula at quam id, sodales dapibus
+                    turpis. Suspendisse potenti. Proin condimentum luctus nulla, et rhoncus ante rutrum eu. Maecenas ut
+                    tincidunt diam. Vestibulum lacinia dui ligula, sit amet pulvinar nisl blandit luctus. Vestibulum aliquam
+                    ligula nulla, tincidunt rhoncus tellus interdum at. Phasellus mollis ipsum at mollis tristique. Maecenas
+                    sit amet tempus justo. Duis dolor elit, mollis quis viverra quis, vehicula eu ante. Integer a molestie
+                    risus. Vestibulum eu sollicitudin massa, sit amet dictum sem. Aliquam nisi tellus, maximus eget placerat
+                    in, porta vel lorem. Aenean tempus sodales nisl in cursus. Curabitur tincidunt turpis in nisl ornare
+                    euismod eget at libero.</p>
+                  <p>Suspendisse ligula eros, congue in nulla pellentesque, imperdiet blandit sapien. Morbi nisi sem,
+                    efficitur a rutrum porttitor, feugiat vel enim. Fusce eget vehicula odio, et luctus neque. Donec mattis a
+                    nulla laoreet commodo. Integer eget hendrerit augue, vel porta libero. Morbi imperdiet, eros at ultricies
+                    rutrum, eros urna auctor enim, eget laoreet massa diam vitae lorem. Proin eget urna ultrices, semper
+                    ligula aliquam, dignissim eros. Donec vitae augue eu sapien tristique elementum a nec nulla. Aliquam erat
+                    volutpat. Curabitur condimentum, metus blandit lobortis fringilla, enim mauris venenatis neque, et
+                    venenatis lorem urna ut justo. Maecenas neque enim, congue ac tempor quis, tincidunt ut mi. Donec
+                    venenatis ante non consequat molestie. Quisque ut rhoncus ligula. Vestibulum sodales maximus justo sit
+                    amet ornare. Nullam pulvinar eleifend nisi sit amet molestie.</p>
+                  <p>
+                    <a class="button button-fill button-round button-large card-close">Close</a>
+                  </p>
+                </div>
+              </div>
+            </div> -->
+
+            
+
+            
+
+
+            <!-- content image end -->
+
+
+          </div>
+        </div>
+      </div>
+  </template>
+  <script>
+  export default () => {
+    return $render;
+  };
+  </script>

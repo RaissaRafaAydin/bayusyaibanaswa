@@ -1,0 +1,48 @@
+<template>
+    <div class="page">
+        <div class="navbar">
+          <div class="navbar-bg"></div>
+          <div class="navbar-inner sliding">
+            <div class="title">Taman Mini Indonesia Indah (TMII) Bekasi</div>
+          </div>
+        </div>
+        <div class="page-content">
+          
+          
+          <div class="block"><h2>Sejarah</h2></div>
+          <div class="block block-strong inset">
+            <p align="justify">Taman Mini Indonesia Indah (TMII) merupakan suatu kawasan taman wisata
+              bertema budaya Indonesia di Jakarta Timur. Area seluas kurang lebih 150 hektar atau
+              1,5 kilometer persegi ini terletak pada koordinat 6 derajat 18'6.8''LS, 106 derajat
+              53'47.2''BT.
+              Di Indonesia, hampir setiap suku bangsa memiliki bentuk dan corak bangunan
+              yang berbeda, bahkan tidak jarang satu suku bangsa memiliki lebih dari satu jenis
+              bangunan tradisional. Bangunan atau arsitektur tradisional yang mereka buat selalu
+              dilatarbetakangi oleh kondisi lingkungan dan kebudayaan yang dimiliki. Di TMII,
+              gambaran tersebut diwujudkan melalui Anjungan Daerah, yang mewakili suku-suku
+              bangsa yang berada di 33 Provinsi Indonesia.
+              Anjungan provinsi ini dibangun di sekitar danau dengan miniatur Kepulauan
+              Indonesia, secara tematik dibagi atas enam zona; Jawa, Sumatera, Kalimantan,
+              Sulawesi, Bali dan Nusa Tenggara, Maluku dan Papua. Tiap anjungan menampilkan
+              bangunan khas setempat.
+              
+              </p>
+          </div>
+          
+        </div>
+
+        <!-- Toolbar-->
+        <div class="toolbar toolbar-bottom">
+            <div class="toolbar-inner">
+              <a href="/bekut/" class="item-content item-link">---Kembali---</a>
+              <a href="/tmi1/" class="item-content item-link">---Selanjutnya---</a>
+            </div>
+          </div>
+          <!-- Scrollable page content-->
+      </div>
+  </template>
+  <script>
+  export default () => {
+    return $render;
+  }
+  </script>

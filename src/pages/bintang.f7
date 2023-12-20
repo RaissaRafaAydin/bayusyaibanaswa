@@ -1,0 +1,35 @@
+<template>
+    <div class="page">
+        <div class="navbar">
+          <div class="navbar-bg"></div>
+          <div class="navbar-inner sliding">
+            <div class="title">taman wildatika</div>
+          </div>
+        </div>
+        <div class="page-content">
+          
+          
+          <div class="block"><h2>Sejarah</h2></div>
+          <div class="block block-strong inset">
+            <p align="justify">
+              Taman Rekreasi ini diresmikan oleh Presiden Soeharto pada tahun 1980 tepatnya pada tanggal 29 Juni. Dibukanya taman ini untuk umum, dikelola oleh Badan Pembinaan Pendidikan Pelaksanaan Pedoman Penghayatan dan Pengamalan Pancasila bersama Gerakan Pramuka Indonesia bertujuan rekreasi berbasis pengamalan Pancasila serta untuk mengumpulkan dana yang akan digunakan sebagai pendanaan kegiatan kepramukaan.
+              </p>
+          </div>
+          
+        </div>
+
+        <!-- Toolbar-->
+        <div class="toolbar toolbar-bottom">
+            <div class="toolbar-inner">
+              <a href="/novel/" class="item-content item-link">---Kembali---</a>
+              <a href="/bintang1/" class="item-content item-link">---Selanjutnya---</a>
+            </div>
+          </div>
+          <!-- Scrollable page content-->
+      </div>
+  </template>
+  <script>
+  export default () => {
+    return $render;
+  }
+  </script>

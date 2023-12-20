@@ -1,0 +1,42 @@
+<template>
+    <div class="page">
+        <div class="navbar">
+          <div class="navbar-bg"></div>
+          <div class="navbar-inner sliding">
+            <div class="title">Taman Buaya Bekasi</div>
+          </div>
+        </div>
+        <div class="page-content">
+          
+          
+          <div class="block-title"></div>
+    <div class="block block-strong inset">
+      <p align="justify">Tempat wisata ini sebetulnya bukan tempat baru. Taman Buaya Indonesia Jaya sudah berdiri dari sejak tahun 1990 silam.
+
+        Setiap tahunnya dari sejak awal berdiri, taman ini mengalami peningkatan, sekarang ada sekurangnya lima kolam besar bagi para raja sungai ini. Setiap kolam bisa menampung sedikitnya seratus ekor buaya! Bayangkan ada berapa banyak buaya di sini.
+        
+        Anda tentu sudah pernah melihat buaya di Kebun Binatang Ragunan atau Gembira Loka Zoo. Namun, melihat buaya di sini itu sensasinya berbeda.
+        
+        Ada ratusan buaya dari berbagai jenis yang bergerombol. Para reptil ini memiliki beragam jenis ukuran. Anda bisa berkeliling penangkaran untuk tahu lebih dekat tentang buaya-buaya ini.
+        
+        Begitu pertama masuk ke taman buaya, Anda akan melihat sebuah patung buaya berukuran besar dengan mulut terbuka lebar. Tentu saja ini bisa jadi spot foto instagramable bagi pengunjung.</p>
+        <div class="map"><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3965.0068395730873!2d107.1002969737026!3d-6.393118162527377!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e699952470fa457%3A0xd5a6a9902c567251!2sTaman%20Buaya%20Indonesia%20Jaya!5e0!3m2!1sid!2sid!4v1703055953042!5m2!1sid!2sid" width="330" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe></div>
+    </div>
+          
+        </div>
+        
+
+        <!-- Toolbar-->
+        <div class="toolbar toolbar-bottom">
+            <div class="toolbar-inner">
+              <a href="/sunset/" class="item-content item-link">---Kembali---</a>
+            </div>
+          </div>
+          <!-- Scrollable page content-->
+      </div>
+  </template>
+  <script>
+  export default () => {
+    return $render;
+  }
+  </script>

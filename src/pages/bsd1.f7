@@ -1,0 +1,37 @@
+<template>
+    <div class="page">
+        <div class="navbar">
+          <div class="navbar-bg"></div>
+          <div class="navbar-inner sliding">
+            <div class="title">The Breeze BSD City</div>
+          </div>
+        </div>
+        <div class="page-content">
+          
+          
+          <div class="block-title"></div>
+    <div class="block block-strong inset">
+      <p align="justify">Pada tahun 1980-an, dulunya kawasan Serpong merupakan hutan karet yang tidak terawat, daerah itu jauh dari kawasan hunian, jalannya tidak beraspal, becek serta tanpa lampu penerangan. Ketika malam menjelang, daerah ini menjadi begitu gelap gulita, bahkan di sana sering ditemukan mayat korban kejahatan.    
+
+        Dialah Ir. Ciputra yang menangkap kawasan Serpong sebagai daerah yang menjanjikan untuk pengembangan properti. Di sana, sejak tahun 1984  di bawah bendera Ciputra Group dirinya membangun sebuah kota mandiri yang diberi nama Bumi Serpong Damai. Sejak pertama kali diluncurkan, Bumi Serpong Damai memang sudah dikonsepkan sebagai sebuah kota mandiri yang tidak hanya membangun pemukiman, tetapi juga pusat pendidikan, pusat perbelanjaan hingga perkantoran.    
+        
+        Pelan tapi pasti akhirnya kawasan Bumi Serpong Damai terus berkembang, akses jalan pun mulai dibuka, yang tadinya gelap gulita akhirnya berubah menjadi area pemukiman modern yang dapat dijadikan solusi atas menggilanya harga rumah di Jakarta. Untung nya saat itu, sudah dibangun Jalan Tol Kebon Jeruk-Tangerang-Merak, jalan bebas hambatan ini lah yang mendorong penjualan rumah di Bumi Serpong Damai.   </p>
+        <div class="map"><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3965.7135492522025!2d106.6507953737012!3d-6.301319061667619!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e69fb03fd576c99%3A0xf5e7f5736ced52fa!2sThe%20Breeze%20BSD%20City!5e0!3m2!1sid!2sid!4v1703057117955!5m2!1sid!2sid" width="330" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe></div>
+    </div>
+          
+        </div>
+
+        <!-- Toolbar-->
+        <div class="toolbar toolbar-bottom">
+            <div class="toolbar-inner">
+              <a href="/bsd/" class="item-content item-link">---Kembali---</a>
+            </div>
+          </div>
+          <!-- Scrollable page content-->
+      </div>
+  </template>
+  <script>
+  export default () => {
+    return $render;
+  }
+  </script>

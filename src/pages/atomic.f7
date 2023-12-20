@@ -1,0 +1,35 @@
+<template>
+    <div class="page">
+        <div class="navbar">
+          <div class="navbar-bg"></div>
+          <div class="navbar-inner sliding">
+            <div class="title">Grand Galaxy Park</div>
+          </div>
+        </div>
+        <div class="page-content">
+          
+          
+          <div class="block"><h2>Sejarah</h2></div>
+          <div class="block block-strong inset">
+            <p align="justify">Grand Galaxy Park atau dikenal dengan GGP, merupakan proyek retail ASRI (a subsidiary of Agung Sedayu Group) yang dibangun dengan konsep hijau berlokasi di Grand Galaxy City, Bekasi. Didesain sebagai destinasi ramah keluarga, GGP menawarkan banyak hal bagi pengunjung. Dengan 21685 sqm area sewa, GGP menjadi rumah bagi brand-brand ternama seperti Genki Sushi, Uniqlo, H&M, dan masih banyak lagi. Dilengkapi juga dengan festival district dan alfresco area yang berfungsi sebagai tempat berkumpul bagi komunitas. GGP juga melayani kebutuhan sehari-hari dengan menghadirkan Farmers Market. Selain tenantnya, GGP juga memiliki function hall yang dapat menampung 1000 orang. Dilengkapi dengan nursery room dan mushola yang nyaman, GGP akan memberikan pengalaman berkesan bagi para pengunjungnya.
+                
+              </p>
+          </div>
+          
+        </div>
+
+        <!-- Toolbar-->
+        <div class="toolbar toolbar-bottom">
+            <div class="toolbar-inner">
+              <a href="/cerita/" class="item-content item-link">---Kembali---</a>
+              <a href="/atomic1/" class="item-content item-link">---Selanjutnya---</a>
+            </div>
+          </div>
+          <!-- Scrollable page content-->
+      </div>
+  </template>
+  <script>
+  export default () => {
+    return $render;
+  }
+  </script>

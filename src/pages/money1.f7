@@ -1,0 +1,37 @@
+<template>
+    <div class="page">
+        <div class="navbar">
+          <div class="navbar-bg"></div>
+          <div class="navbar-inner sliding">
+            <div class="title">Bekasi Cyber Park</div>
+          </div>
+        </div>
+        <div class="page-content">
+          
+          
+          <div class="block-title"></div>
+    <div class="block block-strong inset">
+      <p align="justify">
+        Hero Plaza Bekasi hanya bertahan selama kurang lebih 15 tahun. Sejak 2007 mall ini dioper ke PT Triputra Multi Graha Pertiwi dan mulai 27 November 2007 (berdasarkan HUT mall ini) bermetamorfosis sebagai Bekasi Cyber Park. Mulai 2007 hingga 2010 (data foto satelit Google Street View) mall ini mendapat perluasan berupa gedung parkir dan bioskop Blitzmegaplex/CGV berlantai 5.
+
+Per 2023, tenant yang menghiasi lantai pertokoan mall Bekasi Cyber Park selain CGV terdiri dari Matahari Store, Hari Hari Supermarket, Informa, KFC, Domino's Pizza, Solaria dan pusat pertokoan ponsel di lantai 1 (dasar/GF). McDonald's sepertinya menjadi tenant satu-satunya yang masih bertahan sejak menjadi bagian dari Hero Plaza Bekasi.
+        </p>
+        <div class="map"><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3966.1291241661415!2d106.98879977370042!3d-6.246710061162716!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e698c3170245ccf%3A0xe999ce243705b0b3!2sBks%20Cyber%20Park%2C%20Kayuringin%20Jaya%2C%20Kec.%20Bekasi%20Sel.%2C%20Kota%20Bks%2C%20Jawa%20Barat!5e0!3m2!1sid!2sid!4v1703057621415!5m2!1sid!2sid" width="330" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe></div>
+    </div>
+          
+        </div>
+
+        <!-- Toolbar-->
+        <div class="toolbar toolbar-bottom">
+            <div class="toolbar-inner">
+              <a href="/money/" class="item-content item-link">---Kembali---</a>
+            </div>
+          </div>
+          <!-- Scrollable page content-->
+      </div>
+  </template>
+  <script>
+  export default () => {
+    return $render;
+  }
+  </script>

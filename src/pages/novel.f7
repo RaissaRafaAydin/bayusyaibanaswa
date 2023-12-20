@@ -1,0 +1,184 @@
+<template>
+    <div class="page">
+        <div class="navbar">
+          <div class="navbar-bg"></div>
+          <div class="left">
+            <a href="#" class="link icon-only panel-open" data-panel="left">
+              <i class="icon f7-icons if-not-md">menu</i>
+              <i class="icon material-icons if-md">menu</i>
+            </a>
+          </div>
+          
+        </div>
+        <div class="page-content">
+          <div class="block">
+            <p><h2>Bekasi Timur</h2></p>
+          </div>
+          <div class="demo-expandable-cards">
+            
+            <!-- content image start -->
+            
+            <div class="card card-expandable">
+              <div class="card-content">
+                <div style="background: url(https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhtDJYT1nuSRwcGEKQVFUMoxzFglzPsBeVJQua0S8zgSFTTkh_rQoVuy98zVR3Myal-PMZSfH6qSviHL_RdjK12BSaLY7d8wLYfB-xCFLJqOEfaX5k2VSfrIHSOFeDrXV8J4qN_yW0G_JXMksPg4-9MprpYmyfKp7LfpVd1CUQNkBKY150pGY8cRUlSYQo/s320/TamanBuaya.png) no-repeat center bottom; background-size: cover; height: 240px">
+                </div>
+                <a class="link card-close card-opened-fade-in color-white" style="position: absolute; right: 15px; top: 15px">
+                  <i class="icon f7-icons">xmark_circle_fill</i>
+                </a>
+                <div class="card-header display-block" style="height: 60px">
+                  Taman Buaya Bekasi
+                </div>
+
+                
+                <!-- <button class="button button-tonal button-fill color-green">
+                  <a href="http://google.com" class='external link' target="_system">donlot</a>
+                </button> -->
+
+
+                <div class="card-content-padding" style="text-align: justify;">
+                  <h2>Tentang</h2>
+                  <p align="justify">Taman Buaya Bekasi adalah tempat konservasi buaya yang berfungsi sebagai sarana edukasi dan pelestarian satwa buaya. Dibuka untuk umum, taman ini memberikan kesempatan kepada pengunjung untuk melihat berbagai jenis buaya dan mempelajari perilaku serta konservasi buaya sebagai bagian dari ekosistem</p>
+                  
+                  <p>
+                   <!-- Toolbar-->
+                   <a href="/sunset/" class="button button-fill button-round button-large card-close">Baca </a>
+                    <!-- Scrollable page content-->
+                  </p>
+                </div>
+              </div>
+            </div>
+
+            <div class="card card-expandable">
+              <div class="card-content">
+                <div style="background: url(https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgtALXliZ-2r0_n8EnPoOP9WkehCZdnhxD5yBljHT0LR7_hgJYRtCeQTxgJdtcCURcEIZX4psmBg5DXDp4Slm45SqsmjDKsDVcgNRQTbDl6d9xugFylyr-5j_7VypmxhwJiIcfOn33OQsAGCXeeAPu-84Qm1P5lO_PYvveJhmcKXpC0qwGwvbJcK6sxdAo/s320/taman.png) no-repeat center bottom; background-size: cover; height: 240px">
+                </div>
+                <a class="link card-close card-opened-fade-in color-white" style="position: absolute; right: 15px; top: 15px">
+                  <i class="icon f7-icons">xmark_circle_fill</i>
+                </a>
+                <div class="card-header display-block" style="height: 60px">
+                  Taman wildatika
+                </div>
+                <div class="card-content-padding" style="text-align: justify;">
+                  <p><h2>Tentang</h2></p>
+                  <p align="justify">Taman Rekreasi Wiladatika adalah tempat yang cocok untuk kegiatan rekreasi keluarga. Dengan area yang luas, taman ini memiliki berbagai fasilitas, termasuk jogging track, area bermain anak, dan kolam renang. Pengunjung dapat menikmati udara segar dan melakukan berbagai aktivitas fisik di sini.</p>
+                  
+                  <p>
+                    <a href="/bintang/" class="button button-fill button-round button-large card-close">Baca </a>
+                  </p>
+                </div>
+              </div>
+            </div>
+            
+            <div class="card card-expandable">
+              <div class="card-content">
+                <div style="background: url(https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi674APgaMW0fOeLppEkAlLwF77LwtPd5FqXDn3BB3jg9Xu5JgBtiN5u4MeHd-PCYybtNOXJP7Dwh38rZk26sI-boXuNN7GBrWEvYGQ6dn60etrsi2PMi13WUja6-YSrL2-Ty8YqnpXOmuskd-AmBtSQfJGIsRm8wMIaKWR81ti8bECONoeMzB46D3RLro/s320/danaudepok.png) no-repeat center bottom; background-size: cover; height: 240px">
+                </div>
+                <a class="link card-close card-opened-fade-in color-white" style="position: absolute; right: 15px; top: 15px">
+                  <i class="icon f7-icons">xmark_circle_fill</i>
+                </a>
+                <div class="card-header display-block" style="height: 60px">
+                  Danau Cibereum Bekasi
+                </div>
+                <div class="card-content-padding" style="text-align: justify;">
+                  <p><h2>Tentang</h2></p>
+                  <p align="justify">Danau ataupun situ Cibeureum di Bekasi ialah danau yang mempesona yang memiliki panorama alam yang menawan. Keindahannya sanggup menarik perhatian wisatawan, baik dalam kota ataupun dai luar kota untuk berkunjung.
+                  </p>
+                  
+                  <p>
+                    <a href="/bumi/" class="button button-fill button-round button-large card-close">Baca </a>
+                  </p>
+                </div>
+              </div>
+            </div>
+
+            <!-- <div class="card card-expandable">
+              <div class="card-content">
+                <div style="background: url(https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgRyO5PHGxdbDTa4lRuBOfWMEJdu3dh4T3V7WucL4fDcINO-S81Bk0hdaSBBoq3hvbrMHj5pMELjZZ2Ks3ENkU5L7DLB0aMOox7oh_7F1H-Q8a4YYaQFL8tgzCJr8ESa6crVSqz9VfXum0QGvsUU-xzfU_OaGFiqbas2tqPV0DwvSJQTYuPIPE2CQPJ0gMY/w320-h320/bulan.png) no-repeat center bottom; background-size: cover; height: 240px">
+                </div>
+                <a class="link card-close card-opened-fade-in color-white" style="position: absolute; right: 15px; top: 15px">
+                  <i class="icon f7-icons">xmark_circle_fill</i>
+                </a>
+                <div class="card-header display-block" style="height: 60px">
+                  Bulan
+                </div>
+                <div class="card-content-padding">
+                  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam cursus rhoncus cursus. Etiam lorem est,
+                    consectetur vitae tempor a, volutpat eget purus. Duis urna lectus, vehicula at quam id, sodales dapibus
+                    turpis. Suspendisse potenti. Proin condimentum luctus nulla, et rhoncus ante rutrum eu. Maecenas ut
+                    tincidunt diam. Vestibulum lacinia dui ligula, sit amet pulvinar nisl blandit luctus. Vestibulum aliquam
+                    ligula nulla, tincidunt rhoncus tellus interdum at. Phasellus mollis ipsum at mollis tristique. Maecenas
+                    sit amet tempus justo. Duis dolor elit, mollis quis viverra quis, vehicula eu ante. Integer a molestie
+                    risus. Vestibulum eu sollicitudin massa, sit amet dictum sem. Aliquam nisi tellus, maximus eget placerat
+                    in, porta vel lorem. Aenean tempus sodales nisl in cursus. Curabitur tincidunt turpis in nisl ornare
+                    euismod eget at libero.</p>
+                  <p>Suspendisse ligula eros, congue in nulla pellentesque, imperdiet blandit sapien. Morbi nisi sem,
+                    efficitur a rutrum porttitor, feugiat vel enim. Fusce eget vehicula odio, et luctus neque. Donec mattis a
+                    nulla laoreet commodo. Integer eget hendrerit augue, vel porta libero. Morbi imperdiet, eros at ultricies
+                    rutrum, eros urna auctor enim, eget laoreet massa diam vitae lorem. Proin eget urna ultrices, semper
+                    ligula aliquam, dignissim eros. Donec vitae augue eu sapien tristique elementum a nec nulla. Aliquam erat
+                    volutpat. Curabitur condimentum, metus blandit lobortis fringilla, enim mauris venenatis neque, et
+                    venenatis lorem urna ut justo. Maecenas neque enim, congue ac tempor quis, tincidunt ut mi. Donec
+                    venenatis ante non consequat molestie. Quisque ut rhoncus ligula. Vestibulum sodales maximus justo sit
+                    amet ornare. Nullam pulvinar eleifend nisi sit amet molestie.</p>
+                  <p>
+                    <a class="button button-fill button-round button-large card-close">Close</a>
+                  </p>
+                </div>
+              </div>
+            </div> -->
+
+            <!-- <div class="card card-expandable">
+              <div class="card-content">
+                <div style="background: url(https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhFOGOkkv2K6WKm83pYU4QpE2IKLG6INJof3jjkImBmS9U__BJt5WgxgAK8GMrGmRepfju_0KII_YHEH_6wSCu008EcIb_t087DiJNxzlHHJBAvkD5C1lCy1e5j0XIivGU0t_jRlWmnd3sI4j1zb4eCQsynVi9OlVLzBImiQA5YUh9luXZF5VMT5SSjv66i/s320/matahari.png) no-repeat center bottom; background-size: cover; height: 240px">
+                </div>
+                <a class="link card-close card-opened-fade-in color-white" style="position: absolute; right: 15px; top: 15px">
+                  <i class="icon f7-icons">xmark_circle_fill</i>
+                </a>
+                <div class="card-header display-block" style="height: 60px">
+                  Matahari
+                </div>
+                <div class="card-content-padding">
+                  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam cursus rhoncus cursus. Etiam lorem est,
+                    consectetur vitae tempor a, volutpat eget purus. Duis urna lectus, vehicula at quam id, sodales dapibus
+                    turpis. Suspendisse potenti. Proin condimentum luctus nulla, et rhoncus ante rutrum eu. Maecenas ut
+                    tincidunt diam. Vestibulum lacinia dui ligula, sit amet pulvinar nisl blandit luctus. Vestibulum aliquam
+                    ligula nulla, tincidunt rhoncus tellus interdum at. Phasellus mollis ipsum at mollis tristique. Maecenas
+                    sit amet tempus justo. Duis dolor elit, mollis quis viverra quis, vehicula eu ante. Integer a molestie
+                    risus. Vestibulum eu sollicitudin massa, sit amet dictum sem. Aliquam nisi tellus, maximus eget placerat
+                    in, porta vel lorem. Aenean tempus sodales nisl in cursus. Curabitur tincidunt turpis in nisl ornare
+                    euismod eget at libero.</p>
+                  <p>Suspendisse ligula eros, congue in nulla pellentesque, imperdiet blandit sapien. Morbi nisi sem,
+                    efficitur a rutrum porttitor, feugiat vel enim. Fusce eget vehicula odio, et luctus neque. Donec mattis a
+                    nulla laoreet commodo. Integer eget hendrerit augue, vel porta libero. Morbi imperdiet, eros at ultricies
+                    rutrum, eros urna auctor enim, eget laoreet massa diam vitae lorem. Proin eget urna ultrices, semper
+                    ligula aliquam, dignissim eros. Donec vitae augue eu sapien tristique elementum a nec nulla. Aliquam erat
+                    volutpat. Curabitur condimentum, metus blandit lobortis fringilla, enim mauris venenatis neque, et
+                    venenatis lorem urna ut justo. Maecenas neque enim, congue ac tempor quis, tincidunt ut mi. Donec
+                    venenatis ante non consequat molestie. Quisque ut rhoncus ligula. Vestibulum sodales maximus justo sit
+                    amet ornare. Nullam pulvinar eleifend nisi sit amet molestie.</p>
+                  <p>
+                    <a class="button button-fill button-round button-large card-close">Close</a>
+                  </p>
+                </div>
+              </div>
+            </div> -->
+
+            
+
+            
+
+
+            <!-- content image end -->
+
+
+          </div>
+        </div>
+      </div>
+  </template>
+  <script>
+  export default () => {
+    return $render;
+    
+    window.open(link, '_system')
+  };
+  </script>

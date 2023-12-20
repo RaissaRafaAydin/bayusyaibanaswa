@@ -1,0 +1,44 @@
+<template>
+    <div class="page">
+        <div class="navbar">
+          <div class="navbar-bg"></div>
+          <div class="navbar-inner sliding">
+            <div class="title">Kampung Cina Tambun</div>
+          </div>
+        </div>
+        <div class="page-content">
+          
+          
+          <div class="block-title"></div>
+    <div class="block block-strong inset">
+      <p align="justify">Pada zaman Belanda, kehidupan masyarakat dikuasai oleh para tuan tanah keturunan
+        Tionghoa. Secara struktur jabatan dari tingkat camat sampai kepala kampung dan penduduknya
+        dipimpin dan diatur oleh kekuasaan tuan tanah (landheer) sebagai pemilik tanah atau penyewa
+        tanah. Akibatnya hampir tidak ada pemimpin-pemimpin pribumi yang dapat memberikan
+        pengaruh yang kuat dalam masyarakat. Karena kekuasaan tuan tanah yang sangat besar, mereka
+        membutuhkan bantuan untuk mengorganisir kekuasaannya dengan dibantu aparat tuan tanah.
+        Sebagai pembantu tedekat tuan tanah diangkat seorang Potia atau land opziener yang bertugas
+        melaksanakan pekerjaan sehari-hari dan mewakili tuan tanah apabila tuan tanah tidak ada di
+        tempat. Potia mengurus pekerjaan umum dan administrasi. Aparat di bawah Potia yaitu juragan
+        dan mandor harus memberi laporan kepada Potia sebagai wakil tuan tanah. Seorang yang
+        menjabat potia haruslah seorang Tionghoa yang diangkat secara pribadi dan persaudaraan oleh
+        tuan tanah. Potia ini oleh Lombard diartikan sebagai kepala perkebunan. ( Lombard, 1996:254).</p>
+        <div class="map"><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3530.386641018573!2d106.99813787162726!3d-6.3921262766010924!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e6995d726edb5c9%3A0xe4ccfa86fee0781e!2sFestival%20Oriental%20(%20Kampung%20Cina%20Harvest%20)!5e0!3m2!1sid!2sid!4v1703057411033!5m2!1sid!2sid" width="330" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe></div>
+    </div>
+          
+        </div>
+
+        <!-- Toolbar-->
+        <div class="toolbar toolbar-bottom">
+            <div class="toolbar-inner">
+              <a href="/cina/" class="item-content item-link">---Kembali---</a>
+            </div>
+          </div>
+          <!-- Scrollable page content-->
+      </div>
+  </template>
+  <script>
+  export default () => {
+    return $render;
+  }
+  </script>

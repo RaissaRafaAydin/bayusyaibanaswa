@@ -1,0 +1,37 @@
+<template>
+    <div class="page">
+        <div class="navbar">
+          <div class="navbar-bg"></div>
+          <div class="navbar-inner sliding">
+            <div class="title">The Breeze BSD City</div>
+          </div>
+        </div>
+        <div class="page-content">
+          
+          
+          <div class="block"><h2>Sejarah</h2></div>
+          <div class="block block-strong inset">
+            <p align="justify">Saat melewati tol Jakarta - Cikampek, warga Bekasi dan Jakarta akan menemukan sebuah mal dengan wajah baru. Sejak akusisi oleh FARPOINT, perusahaan real estate Indonesia yang merupakan bagian dari Gunung Sewu Group ini melakukan peremajaan dan perbaikan yang cukup mendasar terhadap mal yang sebelumnya dikenal sebagai Bekasi Square.
+
+              "Untuk memperkuat transformasi ini, kami melakukan repositioning, rebranding dan relaunching Bekasi Square menjadi REVO Town," ujar Percy Marimba, Managing Director Retail FARPOINT dalam acara grand launching bertajuk "Colourful Celebration in Town" yang diselenggarakan di Main Atrium REVO Town, Kamis (19/5) pagi.
+                
+              </p>
+          </div>
+          
+        </div>
+
+        <!-- Toolbar-->
+        <div class="toolbar toolbar-bottom">
+            <div class="toolbar-inner">
+              <a href="/beksel/" class="item-content item-link">---Kembali---</a>
+              <a href="/bsd1/" class="item-content item-link">---Selanjutnya---</a>
+            </div>
+          </div>
+          <!-- Scrollable page content-->
+      </div>
+  </template>
+  <script>
+  export default () => {
+    return $render;
+  }
+  </script>

@@ -1,0 +1,46 @@
+<template>
+    <div class="page">
+        <div class="navbar">
+          <div class="navbar-bg"></div>
+          <div class="navbar-inner sliding">
+            <div class="title">Kampung Cina Tambun</div>
+          </div>
+        </div>
+        <div class="page-content">
+          
+          
+          <div class="block"><h2>Sejarah</h2></div>
+          <div class="block block-strong inset">
+            <p align="justify">Penelitian ini bertijuan untuk menggambarkan masyarakat Tionghoa Bekasi, sejarah dan
+              kehidupannnya. Keberadaan orang Tionghoa di Bekasi dapat dilihat dari keberadaan kelentengkelenteng yang ada di Bekasi. Kelenteng-kelenteng inilah yang menjaga kelangsungan tradisi
+              mereka sebagai orang Tionghoa khususnya dalam perayaan tradisi yang dilakukan di kelenteng.
+              Kelenteng sebagai tempat ibadah Tridarma menjaga tradisi dan kepercayaan orang Tionghoa di
+              Bekasi. Yang dimaksud Bekasi di sini adalah Bekasi Raya atau kabupaten Bekasi yang meliputi
+              Bekasi Kota, Cikarang, dan Cibarusah.
+              Penelitian ini bersifat kualitatif, pengumpulan data dilakukan dengan cara wawancara mendalam
+              (indepth interview). Selain wawancara juga dilakukan observasi dan pengamatan terlibat
+              ( participant observation). Validitas data yang digunakan dalam penelitian ini adalah dengan
+              menggunakan teknik triangulasi sebagai teknik pemeriksaan data. Triangulasi yang dipakai dalah
+              triangulasi sumber yang membandingkan dan mengecek balik derajat kepercayaan suatu
+              informasi yang diperoleh melalui waktu dan alat yang berbeda dalam metode kualitatif.  
+                
+              </p>
+          </div>
+          
+        </div>
+
+        <!-- Toolbar-->
+        <div class="toolbar toolbar-bottom">
+            <div class="toolbar-inner">
+              <a href="/bekut/" class="item-content item-link">---Kembali---</a>
+              <a href="/cina1/" class="item-content item-link">---Selanjutnya---</a>
+            </div>
+          </div>
+          <!-- Scrollable page content-->
+      </div>
+  </template>
+  <script>
+  export default () => {
+    return $render;
+  }
+  </script>

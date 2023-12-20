@@ -1,0 +1,50 @@
+<template>
+    <div class="page">
+        <div class="navbar">
+          <div class="navbar-bg"></div>
+          <div class="navbar-inner sliding">
+            <div class="title">Taman Mini Indonesia Indah (TMII) Bekasi</div>
+          </div>
+        </div>
+        <div class="page-content">
+          
+          
+          <div class="block-title"></div>
+    <div class="block block-strong inset">
+      <p align="justify">Taman ini merupakan rangkuman kebudayaan bangsa Indonesia, yang
+        mencakup berbagai aspek kehidupan sehari-hari masyarakat 33 provinsi Indonesia
+        (pada tahun 1975) yang ditampilkan dalam anjungan daerah berarsitektur tradisional,
+        serta menampilkan aneka busana, tarian dan tradisi daerah.
+        Disamping itu, di tengah-tengah TMII terdapat sebuah danau yang
+        menggambarkan miniatur kepulauan Indonesia di tengahnya, kereta gantung,
+        berbagai museum, dan Teater IMAX Keong Mas dan Teater Tanah Airku, berbagai
+        sarana rekreasi ini menjadikan TMIII sebagai salah satu kawasan wisata terkemuka di
+        ibu kota.
+        TMII memiliki logo yang pada intinya terdiri atas huruf TMII, Singkatan dari
+        "Taman Mini Indonesia Indah". Sedangkan maskotnya berupa tokoh wayang
+        Hanoman yang dinamakan NITRA (Anjani Putra). Maskot Taman Mini "Indonesia
+        Indah" ini diresmikan penggunaannya oleh Ibu Tien Soeharto, bertepatan dengan dwi
+        windu usia TMII, pada tahun 1991.
+        Gagasan pembangunan suatu miniatur yang memuat kelengkapan Indonesia
+        dengan segala isinya ini dicetuskan oleh Ibu Negara, Siti Hartinah, yang lebih dikenal
+        dengan sebutan Ibu Tien Soeharto. Gagasan ini tercetus pada suatu pertemuan di
+        Jalan Cendana no. 8 Jakarta pada tanggal 13 Maret 1970</p>
+        <div class="map"><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3965.708090425031!2d106.88527896792584!3d-6.302033247696254!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e69ed50d076a261%3A0x73127b9ecf2da0c!2sTaman%20Mini%20Indonesia%20Indah!5e0!3m2!1sid!2sid!4v1703056798351!5m2!1sid!2sid" width="330" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe></div>
+    </div>
+          
+        </div>
+
+        <!-- Toolbar-->
+        <div class="toolbar toolbar-bottom">
+            <div class="toolbar-inner">
+              <a href="/tmi/" class="item-content item-link">---Kembali---</a> 
+            </div>
+          </div>
+          <!-- Scrollable page content-->
+      </div>
+  </template>
+  <script>
+  export default () => {
+    return $render;
+  }
+  </script>

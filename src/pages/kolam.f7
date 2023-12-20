@@ -1,0 +1,37 @@
+<template>
+    <div class="page">
+        <div class="navbar">
+          <div class="navbar-bg"></div>
+          <div class="navbar-inner sliding">
+            <div class="title">Kolam Renang Anggrek Sport Club</div>
+          </div>
+        </div>
+        <div class="page-content">
+          
+          
+          <div class="block"><h2>Sejarah</h2></div>
+          <div class="block block-strong inset">
+            <p align="justify">Kolam renang yang berada di kawasan perumahan Pesona Anggrek ini tak hanya menawarkan kelengkapan fasilitas, melainkan juga kenyamanan saat berenang. Mempunyai dua kolam renang yang terbagi menjadi kolam anak dan kolam dewasa.
+
+              Pepohonan rindang yang tumbuh di sekitar area kolam membuat suasana sekitar cukup teduh dan sejuk. Di bagian kolam anak tersedia wahana permaianan seru seperti seluncuran, ari mancur, ember tumpah, dan masih banyak lagi.
+                
+              </p>
+          </div>
+          
+        </div>
+
+        <!-- Toolbar-->
+        <div class="toolbar toolbar-bottom">
+            <div class="toolbar-inner">
+              <a href="/beksel/" class="item-content item-link">---Kembali---</a>
+              <a href="/kolam1/" class="item-content item-link">---Selanjutnya---</a>
+            </div>
+          </div>
+          <!-- Scrollable page content-->
+      </div>
+  </template>
+  <script>
+  export default () => {
+    return $render;
+  }
+  </script>

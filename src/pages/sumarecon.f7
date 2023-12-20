@@ -1,0 +1,36 @@
+<template>
+    <div class="page">
+        <div class="navbar">
+          <div class="navbar-bg"></div>
+          <div class="navbar-inner sliding">
+            <div class="title">Summarecon Bekasi</div>
+          </div>
+        </div>
+        <div class="page-content">
+          
+          
+          <div class="block"><h2>Sejarah</h2></div>
+          <div class="block block-strong inset">
+            <p align="justify">Summarecon Bekasi adalah sebuah kawasan hunian dan komersial yang terletak di Bekasi, Jawa Barat. Saya memiliki kesempatan untuk menjelajahi kawasan ini dan mengetahui lebih banyak tentang sejarah dan budayanya.
+
+              Summarecon Bekasi awalnya merupakan sebuah perkebunan yang dimiliki oleh keluarga Sumardi, seorang pengusaha sukses pada tahun 1980-an. Pada tahun 1990, keluarga Sumardi memutuskan untuk mengembangkan perkebunan mereka menjadi kawasan hunian dan komersial yang diberi nama Summarecon Bekasi.
+              </p>
+          </div>
+          
+        </div>
+
+        <!-- Toolbar-->
+        <div class="toolbar toolbar-bottom">
+            <div class="toolbar-inner">
+              <a href="/beksel/" class="item-content item-link">---Kembali---</a>
+              <a href="/sumarecon1/" class="item-content item-link">---Selanjutnya---</a>
+            </div>
+          </div>
+          <!-- Scrollable page content-->
+      </div>
+  </template>
+  <script>
+  export default () => {
+    return $render;
+  }
+  </script>

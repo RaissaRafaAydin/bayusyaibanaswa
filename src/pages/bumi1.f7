@@ -1,0 +1,38 @@
+<template>
+    <div class="page">
+        <div class="navbar">
+          <div class="navbar-bg"></div>
+          <div class="navbar-inner sliding">
+            <div class="title">Danau Cibereum Bekasi</div>
+          </div>
+        </div>
+        <div class="page-content">
+          
+          
+          <div class="block-title"></div>
+    <div class="block block-strong inset">
+      <p align="justify">Pulau kecil ini membuat Danau kian indah dipandang. Tidak heran apabila wisatawan mengambil foto maupun video danau tentu mengarahkan kameranya ke pulau kecil itu.
+
+
+        Disaat petang tiba, panorama alam dekat danau kian eksentrik. Langit yang kemerahan memantul di dataran danau membuat suasana jadi lebih sensasional. Saat inilah yang ditunggu- tunggu wisatawan, mereka hendak menikmati langit petang beberapa saat sebelum kembali pulang.
+        
+        Tidak heran apabila Danau Cibeureum jadi opsi menarik untuk wisatawan yang malas mencari hiburan ke luar kota Bekasi. Memandang paparan air yang besar sudah lumayan membuat perasaan merasa bahagia.</p>
+        <div class="map"><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d15862.954601121422!2d107.03525582702868!3d-6.298034020699472!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e6991d1226b0f8f%3A0xa25d898332ee50f!2sSitu%20Cibeureum!5e0!3m2!1sid!2sid!4v1703057273888!5m2!1sid!2sid" width="330" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe></div>
+      </div>
+          
+        </div>
+
+        <!-- Toolbar-->
+        <div class="toolbar toolbar-bottom">
+            <div class="toolbar-inner">
+              <a href="/bumi/" class="item-content item-link">---Kembali---</a>
+            </div>
+          </div>
+          <!-- Scrollable page content-->
+      </div>
+  </template>
+  <script>
+  export default () => {
+    return $render;
+  }
+  </script>

@@ -1,0 +1,42 @@
+<template>
+    <div class="page">
+        <div class="navbar">
+          <div class="navbar-bg"></div>
+          <div class="navbar-inner sliding">
+            <div class="title">Danau Cibereum Bekasi</div>
+          </div>
+        </div>
+        <div class="page-content">
+          
+          
+          <div class="block"><h2>Sejarah</h2></div>
+          <div class="block block-strong inset">
+            <p align="justify">Danau yang terbentuk dengan cara natural tersebut memiliki panorama alam yang eksentrik, paling utama apabila dinikmati disaat petang. Airnya yang tenang dan semilir angin sejuk membuat kita nyaman dan betah berlama lama di danau tersebut menjadikan  gabungan yang sempurna untuk bersantai.
+
+              Meski perawatan rekreasi Danau masih sederhana, Danau Cibeureum tidaklah begitu buruk sebagai tempat bersantai diri dari banyak kegiatan dan bisingnya perkotaan.
+              
+              
+              Danau Cibeureum memiliki luas kurang lebih 2 hektar. Sebenarnya, Danau Cibeureum menempati di 2 desa, yakni Desa Lambangjaya dan Desa Lambangsari. Keduanya masih di Kecamatan Tambun Selatan.
+              
+              
+              Dengan debit air yang banyak, Danau ini semacam oase di wilayah Bekasi yang cukup panas dan kering. Ditambah lagi dengan adanya pepohonan yang hijau mengelilingi Danau tersebut terlihat asri dan alami. Di tengah Danau terdapat bukit kecil yang mempesona, dengan rerumputan dan juga tanaman yang rimbun.
+              </p>
+          </div>
+          
+        </div>
+
+        <!-- Toolbar-->
+        <div class="toolbar toolbar-bottom">
+            <div class="toolbar-inner">
+              <a href="/novel/" class="item-content item-link">---Kembali---</a>
+              <a href="/bumi1/" class="item-content item-link">---Selanjutnya---</a>
+            </div>
+          </div>
+          <!-- Scrollable page content-->
+      </div>
+  </template>
+  <script>
+  export default () => {
+    return $render;
+  }
+  </script>

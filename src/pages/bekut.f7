@@ -1,0 +1,176 @@
+<template>
+    <div class="page">
+        <div class="navbar">
+          <div class="navbar-bg"></div>
+          <div class="left">
+            <a href="#" class="link icon-only panel-open" data-panel="left">
+              <i class="icon f7-icons if-not-md">menu</i>
+              <i class="icon material-icons if-md">menu</i>
+            </a>
+          </div>
+          
+        </div>
+        <div class="page-content">
+          <div class="block">
+            <p><h2>Bekasi Utara</h2></p>
+          </div>
+          <div class="demo-expandable-cards">
+            
+            <!-- content image start -->
+            
+            <div class="card card-expandable">
+              <div class="card-content">
+                <div style="background: url(https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh8XIRJ3JYocNApiS8Ow-g-fkSjWphcc5P_8qs-ugtm8s5a5sK9xr5Z1hyudNdomxmUym7VUbun7Ht_ZZe1oW_vOXqdzAUCNUBTXDZNeVuWLMWG-nua_dBXlyGhu-tm4t9dZP4p3wSOsFA7jIQhJihigS11FbOnnBGeqPfZ4nHHCM8GbPYoQtLLOjl1AO4/s320/cina.png) no-repeat center bottom; background-size: cover; height: 240px">
+                </div>
+                <a class="link card-close card-opened-fade-in color-white" style="position: absolute; right: 15px; top: 15px">
+                  <i class="icon f7-icons">xmark_circle_fill</i>
+                </a>
+                <div class="card-header display-block" style="height: 60px">
+                  Kampung Cina Tambun
+                </div>
+                <div class="card-content-padding">
+                  <p><h2>Tentang</h2></p>
+                  <p align="justify"> Kampung Cina Tambun adalah area yang mencerminkan warisan budaya Tionghoa di Bekasi Utara. Kampung ini menawarkan suasana tradisional dengan bangunan kuno, kuil, dan berbagai elemen arsitektur Tionghoa. Pengunjung dapat menjelajahi warisan budaya dan sejarah di kawasan ini.
+
+                  </p>
+                  
+                  <p>
+                    <a href="/cina/" class="button button-fill button-round button-large card-close">Baca </a>
+                  </p>
+                </div>
+              </div>
+            </div>
+
+            <div class="card card-expandable">
+              <div class="card-content">
+                <div style="background: url(https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiHKgLrAe8kcXFYiOIoprOuLDp_rLLRysb7nkRtkQ5lQTWkq4Mj67pO2wxKqislBRI0h3aUpGzWWcyhJIlzfRswd9ACjm8gwGtZrVGoPT4QEXpGDksD3k_Fkx6hUYM7kZ83aPWwjcQC1po1xeedUv79Zy0hHOnwAhtnnskxUEf69mH7eHmkIXMJQ8QCldU/s320/tmi.png) no-repeat center bottom; background-size: cover; height: 240px">
+                </div>
+                <a class="link card-close card-opened-fade-in color-white" style="position: absolute; right: 15px; top: 15px">
+                  <i class="icon f7-icons">xmark_circle_fill</i>
+                </a>
+                <div class="card-header display-block" style="height: 60px">
+                  Taman Mini Indonesia Indah (TMII) Bekasi
+                </div>
+                <div class="card-content-padding">
+                  <p><h2>Sinopsis</h2></p>
+                  <p align="justify">Taman Mini Indonesia Indah (TMII) Bekasi adalah replika dari Taman Mini Indonesia Indah di Jakarta. Tempat ini menampilkan miniatur bangunan dan kebudayaan dari berbagai daerah di Indonesia. Pengunjung dapat menjelajahi keanekaragaman budaya Indonesia dalam satu lokasi.
+
+                  </p>
+                  
+                  <p>
+                    <a href="/tmi/" class="button button-fill button-round button-large card-close">Baca </a>
+                  </p>
+                </div>
+              </div>
+            </div>
+            
+            <div class="card card-expandable">
+              <div class="card-content">
+                <div style="background: url(https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgWzz-qgFKTUo8PYgzJeH_Bd-JtAdksy7Q0ip4mvckQr-3Ufyj5AaKW_6S-U0t7cl9Ife60KNflC3nwX5COJhuAHqR0HXKS1_rUJt6_XuWvEzwkeiNEPrae52Jn_iwbpWuEBFPxw9NVaIybLnXQyS9cJNu8en_nXB1poqWctQkokoCu_MeBAtEm0zKdHYI/s320/RevoTown.png) no-repeat center bottom; background-size: cover; height: 240px">
+                </div>
+                <a class="link card-close card-opened-fade-in color-white" style="position: absolute; right: 15px; top: 15px">
+                  <i class="icon f7-icons">xmark_circle_fill</i>
+                </a>
+                <div class="card-header display-block" style="height: 60px">
+                  Revo Town
+                </div>
+                <div class="card-content-padding">
+                  <p align="justify">Revo Town adalah pusat perbelanjaan dan hiburan yang terletak di Bekasi Utara. Dengan desain modern, tempat ini menawarkan berbagai toko, restoran, dan kegiatan hiburan untuk pengunjung. Sejak dibuka, Revo Town menjadi salah satu pusat perbelanjaan yang populer di Bekasi Utara.
+
+                  </p>
+                  <p>
+                    <a href="/revo/" class="button button-fill button-round button-large card-close">Baca </a>
+                  </p>
+                </div>
+              </div>
+            </div>
+
+            <!-- <div class="card card-expandable">
+              <div class="card-content">
+                <div style="background: url(https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj_lZRN2NCVajP5YG4iLXmkeaveLvWTh_ssuNef81Dhrd6kv979yOkPOQ4I2xvAm7Un3wWsP0wbFdOMBFRVMFxTmDHzOVjyfiz2w9GIY8VSIbdn4bFtv1MgG-_FJlAJ_lpOlz3p0hcfu5j8AQgMTjt7t1W2c67q1L-bUoNPvCC613gkGJj__9LDC-Dw4yoK/s320/tidak.png) no-repeat center bottom; background-size: cover; height: 240px">
+                </div>
+                <a class="link card-close card-opened-fade-in color-white" style="position: absolute; right: 15px; top: 15px">
+                  <i class="icon f7-icons">xmark_circle_fill</i>
+                </a>
+                <div class="card-header display-block" style="height: 60px">
+                  Berani tidak disukai 
+                </div>
+                <div class="card-content-padding">
+                  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam cursus rhoncus cursus. Etiam lorem est,
+                    consectetur vitae tempor a, volutpat eget purus. Duis urna lectus, vehicula at quam id, sodales dapibus
+                    turpis. Suspendisse potenti. Proin condimentum luctus nulla, et rhoncus ante rutrum eu. Maecenas ut
+                    tincidunt diam. Vestibulum lacinia dui ligula, sit amet pulvinar nisl blandit luctus. Vestibulum aliquam
+                    ligula nulla, tincidunt rhoncus tellus interdum at. Phasellus mollis ipsum at mollis tristique. Maecenas
+                    sit amet tempus justo. Duis dolor elit, mollis quis viverra quis, vehicula eu ante. Integer a molestie
+                    risus. Vestibulum eu sollicitudin massa, sit amet dictum sem. Aliquam nisi tellus, maximus eget placerat
+                    in, porta vel lorem. Aenean tempus sodales nisl in cursus. Curabitur tincidunt turpis in nisl ornare
+                    euismod eget at libero.</p>
+                  <p>Suspendisse ligula eros, congue in nulla pellentesque, imperdiet blandit sapien. Morbi nisi sem,
+                    efficitur a rutrum porttitor, feugiat vel enim. Fusce eget vehicula odio, et luctus neque. Donec mattis a
+                    nulla laoreet commodo. Integer eget hendrerit augue, vel porta libero. Morbi imperdiet, eros at ultricies
+                    rutrum, eros urna auctor enim, eget laoreet massa diam vitae lorem. Proin eget urna ultrices, semper
+                    ligula aliquam, dignissim eros. Donec vitae augue eu sapien tristique elementum a nec nulla. Aliquam erat
+                    volutpat. Curabitur condimentum, metus blandit lobortis fringilla, enim mauris venenatis neque, et
+                    venenatis lorem urna ut justo. Maecenas neque enim, congue ac tempor quis, tincidunt ut mi. Donec
+                    venenatis ante non consequat molestie. Quisque ut rhoncus ligula. Vestibulum sodales maximus justo sit
+                    amet ornare. Nullam pulvinar eleifend nisi sit amet molestie.</p>
+                  <p>
+                    <a class="button button-fill button-round button-large card-close">Close</a>
+                  </p>
+                </div>
+              </div>
+            </div> -->
+
+            <!-- <div class="card card-expandable">
+              <div class="card-content">
+                <div style="background: url(https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhCJDgdhSs3nUHyOCNBhb4Uuht9X_XfZkqjSEZJrlUUMQj0ES-QXQUD1v-VWY_tFZ9sVfQm6t78BGgcQizuCewqYUfNRyBdBlQjbex3_7hyphenhyphenMq33IlbL-xJ6hIUasBC_aOFNd0QdDhdedNkzLYYvWSdiCl-SCx10ZhhLKeqPYyfx9U_WB45__XFp9LqVoR24/s320/dad.png) no-repeat center bottom; background-size: cover; height: 240px">
+                </div>
+                <a class="link card-close card-opened-fade-in color-white" style="position: absolute; right: 15px; top: 15px">
+                  <i class="icon f7-icons">xmark_circle_fill</i>
+                </a>
+                <div class="card-header display-block" style="height: 60px">
+                  Rich Dad Poor Dad
+                </div>
+                <div class="card-content-padding">
+                  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam cursus rhoncus cursus. Etiam lorem est,
+                    consectetur vitae tempor a, volutpat eget purus. Duis urna lectus, vehicula at quam id, sodales dapibus
+                    turpis. Suspendisse potenti. Proin condimentum luctus nulla, et rhoncus ante rutrum eu. Maecenas ut
+                    tincidunt diam. Vestibulum lacinia dui ligula, sit amet pulvinar nisl blandit luctus. Vestibulum aliquam
+                    ligula nulla, tincidunt rhoncus tellus interdum at. Phasellus mollis ipsum at mollis tristique. Maecenas
+                    sit amet tempus justo. Duis dolor elit, mollis quis viverra quis, vehicula eu ante. Integer a molestie
+                    risus. Vestibulum eu sollicitudin massa, sit amet dictum sem. Aliquam nisi tellus, maximus eget placerat
+                    in, porta vel lorem. Aenean tempus sodales nisl in cursus. Curabitur tincidunt turpis in nisl ornare
+                    euismod eget at libero.</p>
+                  <p>Suspendisse ligula eros, congue in nulla pellentesque, imperdiet blandit sapien. Morbi nisi sem,
+                    efficitur a rutrum porttitor, feugiat vel enim. Fusce eget vehicula odio, et luctus neque. Donec mattis a
+                    nulla laoreet commodo. Integer eget hendrerit augue, vel porta libero. Morbi imperdiet, eros at ultricies
+                    rutrum, eros urna auctor enim, eget laoreet massa diam vitae lorem. Proin eget urna ultrices, semper
+                    ligula aliquam, dignissim eros. Donec vitae augue eu sapien tristique elementum a nec nulla. Aliquam erat
+                    volutpat. Curabitur condimentum, metus blandit lobortis fringilla, enim mauris venenatis neque, et
+                    venenatis lorem urna ut justo. Maecenas neque enim, congue ac tempor quis, tincidunt ut mi. Donec
+                    venenatis ante non consequat molestie. Quisque ut rhoncus ligula. Vestibulum sodales maximus justo sit
+                    amet ornare. Nullam pulvinar eleifend nisi sit amet molestie.</p>
+                  <p>
+                    <a class="button button-fill button-round button-large card-close">Close</a>
+                  </p>
+                </div>
+              </div>
+            </div> -->
+
+            
+
+            
+
+
+            <!-- content image end -->
+
+
+          </div>
+        </div>
+      </div>
+  </template>
+  <script>
+  export default () => {
+    return $render;
+  };
+  </script>

@@ -1,0 +1,37 @@
+<template>
+    <div class="page">
+        <div class="navbar">
+          <div class="navbar-bg"></div>
+          <div class="navbar-inner sliding">
+            <div class="title">Mall Metropolitan Bekasi</div>
+          </div>
+        </div>
+        <div class="page-content">
+          
+          
+          <div class="block"><h2>Sejarah</h2></div>
+          <div class="block block-strong inset">
+            <p align="justify">
+              Metropolitan Mall Bekasi (Umumnya disingkat sebagai MM Bekasi) diresmikan pada 13 Desember 1993 merupakan mal kelas menengah pertama di pusat bisnis Kota Bekasi dengan konsep one stop shopping center dan hingga kini tetap menjadi mal pilihan untuk berbelanja warga Bekasi dan Jakarta Timur. Variasi tenant department store, fashion, supermarket, bioskop, tempat bermain anak, berbagai tenant F&B dan restoran, toko elektronik, toko gadget, dsb yang tepat menjadikan Metropolitan Mall Bekasi dapat memenuhi semua kebutuhan berbelanja sekaligus hiburan keluarga. 
+                
+              </p>
+
+          </div>
+          
+        </div>
+
+        <!-- Toolbar-->
+        <div class="toolbar toolbar-bottom">
+            <div class="toolbar-inner">
+              <a href="/cerita/" class="item-content item-link">---Kembali---</a>
+              <a href="/teras1/" class="item-content item-link">---Selanjutnya---</a>
+            </div>
+          </div>
+          <!-- Scrollable page content-->
+      </div>
+  </template>
+  <script>
+  export default () => {
+    return $render;
+  }
+  </script>

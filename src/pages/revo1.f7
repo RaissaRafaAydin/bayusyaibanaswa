@@ -1,0 +1,35 @@
+<template>
+    <div class="page">
+        <div class="navbar">
+          <div class="navbar-bg"></div>
+          <div class="navbar-inner sliding">
+            <div class="title">Revo Town</div>
+          </div>
+        </div>
+        <div class="page-content">
+          
+          
+          <div class="block-title"></div>
+    <div class="block block-strong inset">
+      <p align="justify">Selain perubahan nama dan identitas mal, tenancy mix dan zoning juga sedang mengalami perubahan yang signifikan sesuai dengan kaidah retail modern. Tampilan fasad gedung beserta pintu-pintu dan lobi utama REVO Town juga ikut direnovasi total. Fasad mal yang dahulu bergaya klasik, kini tampil modern dan dinamis dengan permainan garis dan warna-warna hangat yang mewakili kebersamaan di dalamnya. Menurut Percy, metamorfosa mal juga terjadi pada peremajaan fasilitas dan infrastrukur mal.
+
+        "Kami sangat optimis REVO Town akan tumbuh dan berkembang bersama dengan warga Bekasi. Dengan menyatukan kekuatan bersama, rebranding REVO Town akan melengkapi gaya hidup modern terkini, didukung dengan lokasi yang strategis dan ritel modern yang unik," tambahnya dalam rilis yang kami terima </p>
+        <div class="map"></div>
+    </div>
+          
+        </div>
+
+        <!-- Toolbar-->
+        <div class="toolbar toolbar-bottom">
+            <div class="toolbar-inner">
+              <a href="/bsd/" class="item-content item-link">---Kembali---</a>
+            </div>
+          </div>
+          <!-- Scrollable page content-->
+      </div>
+  </template>
+  <script>
+  export default () => {
+    return $render;
+  }
+  </script>

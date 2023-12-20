@@ -1,0 +1,41 @@
+<template>
+    <div class="page">
+        <div class="navbar">
+          <div class="navbar-bg"></div>
+          <div class="navbar-inner sliding">
+            <div class="title">Bekasi Cyber Park</div>
+          </div>
+        </div>
+        <div class="page-content">
+          
+          
+          <div class="block"><h2>Sejarah</h2></div>
+          <div class="block block-strong inset">
+            <p align="justify">
+                
+              Pembangunan mal itu sempat diawasi langsung oleh M.S. Kurnia, pemilik dan Presiden Direktur Supermarket Hero, di masa-masa akhir hayatnya. Dalam buku memoar tentang suaminya, Nurhajati mengatakan demi melihat pembangunan Hero Plaza Bekasi, M.S. Kurnia seringkali lebih sering makan ke restoran sebelum menuju lokasi konstruksi di Jalan Ahmad Yani Bekasi. Sayangnya, saat konstruksi sedang setengah jalan, Kurnia wafat pada 10 Mei 1992, karena kanker yang dideritanya dua tahun yang lalu.
+
+              Pusat belanja pertama, dan mungkin satu-satunya, milik Hero ini diresmikan pada tahun 19931, sayangnya tidak dijelaskan kapan pastinya. Beberapa penghuni yang mengisi mall seluas 18 ribu meter persegi itu terdiri dari Borobudur Department Store dengan menempati luas pertokoan sebesar 3.000 m², McDonald's dan Toko Gunung Agung selain Hero sendiri yang menempati 2.000 m² luas pertokoan
+    
+                
+                
+              </p>
+          </div>
+          
+        </div>
+
+        <!-- Toolbar-->
+        <div class="toolbar toolbar-bottom">
+            <div class="toolbar-inner">
+              <a href="/cerita/" class="item-content item-link">---Kembali---</a>
+              <a href="/money1/" class="item-content item-link">---Selanjutnya---</a>
+            </div>
+          </div>
+          <!-- Scrollable page content-->
+      </div>
+  </template>
+  <script>
+  export default () => {
+    return $render;
+  }
+  </script>

@@ -1,0 +1,41 @@
+<template>
+    <div class="page">
+        <div class="navbar">
+          <div class="navbar-bg"></div>
+          <div class="navbar-inner sliding">
+            <div class="title">Taman Buaya Bekasi</div>
+          </div>
+        </div>
+        <div class="page-content">
+          
+          
+          <div class="block"><h2>Sejarah</h2></div>
+          <div class="block block-strong inset">
+            <p></p>
+
+              <p align="justify">Ketika Anda mengajak keluarga Anda berlibur, main ke gunung atau pantai adalah hal yang biasa. Liburan ke taman bermain atau waterpark bagus di Bekasi juga sudah sering. Lalu, harus ke mana supaya Anda bisa mengajak keluarga Anda liburan yang berbeda? Anda mungkin bisa mempertimbangkan Taman Buaya Indonesia Jaya.</p>
+
+              <p align="justify">Taman buaya ini letaknya di Kabupaten Bekasi, tidak jauh dari Jakarta. Seperti yang sudah bisa Anda duga dari namanya, tempat wisata ini adalah tempat penangkaran buaya terbesar di Indonesia, dan bahkan di Asia.</p>
+
+
+              <p align="justify">Binatang buas yang biasa hidup di rawa ini berhasil menarik minat banyak pengunjung. Objek wisata ekologi seperti ini bisa jadi tempat liburan alternatif yang seru.
+              </p>
+          </div>
+          
+        </div>
+
+        <!-- Toolbar-->
+        <div class="toolbar toolbar-bottom">
+            <div class="toolbar-inner">
+              <a href="/novel/" class="item-content item-link">---Kembali---</a>
+              <a href="/sunset1/" class="item-content item-link">---Selanjutnya---</a>
+            </div>
+          </div>
+          <!-- Scrollable page content-->
+      </div>
+  </template>
+  <script>
+  export default () => {
+    return $render;
+  }
+  </script>

@@ -1,0 +1,39 @@
+<template>
+    <div class="page">
+        <div class="navbar">
+          <div class="navbar-bg"></div>
+          <div class="navbar-inner sliding">
+            <div class="title">The Breeze BSD City</div>
+          </div>
+        </div>
+        <div class="page-content">
+          
+          
+          <div class="block"><h2>Sejarah</h2></div>
+          <div class="block block-strong inset">
+            <p align="justify">Siapa yang tidak mengenal BSD City, kota mandiri yang kini menjadi ikon Tangerang Selatan tersebut memang begitu tersohor, bukan karena proses pembangunan kotanya yang begitu cepat tetapi juga karena luas pengembangan areanya yang sangat luas (6000 hektar), konon menjadi proyek terintegrasi terbesar di Indonesia.    
+
+              Dibalik megahnya pembangunan BSD City, tahukah Anda ternyata proses pembangunan proyek ini penuh dengan cerita menarik, mulai dari fakta bahwa dulunya BSD City adalah hutan karet yang banyak ditemukan mayat, hingga proyek mangkrak karena krisis ekonomi. 
+              
+              Nah, bagi Anda yang ingin mengetahui bagaimana sejarah pembangunan kota mandiri BSD City
+                
+              </p>
+          </div>
+          
+        </div>
+
+        <!-- Toolbar-->
+        <div class="toolbar toolbar-bottom">
+            <div class="toolbar-inner">
+              <a href="/beksel/" class="item-content item-link">---Kembali---</a>
+              <a href="/bsd1/" class="item-content item-link">---Selanjutnya---</a>
+            </div>
+          </div>
+          <!-- Scrollable page content-->
+      </div>
+  </template>
+  <script>
+  export default () => {
+    return $render;
+  }
+  </script>

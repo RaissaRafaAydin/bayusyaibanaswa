@@ -1,0 +1,39 @@
+<template>
+    <div class="page">
+        <div class="navbar">
+          <div class="navbar-bg"></div>
+          <div class="navbar-inner sliding">
+            <div class="title">Summarecon Bekasi</div>
+          </div>
+        </div>
+        <div class="page-content">
+          
+          
+          <div class="block-title"></div>
+    <div class="block block-strong inset">
+      <p align="justify">Summarecon Bekasi memiliki budaya yang unik dan beragam. Berikut adalah beberapa budaya yang dapat ditemukan di Summarecon Bekasi:
+
+        Kuliner: Summarecon Bekasi memiliki berbagai macam kuliner yang bisa kamu cicipi, mulai dari makanan tradisional hingga makanan internasional.
+        Seni dan Budaya: Summarecon Bekasi sering mengadakan acara seni dan budaya, seperti festival musik dan pertunjukan teater.
+        Fasilitas Olahraga: Summarecon Bekasi memiliki berbagai macam fasilitas olahraga, seperti lapangan futsal, lapangan basket, dan kolam renang.
+        Pusat Perbelanjaan: Summarecon Bekasi memiliki beberapa pusat perbelanjaan yang lengkap, seperti Summarecon Mall Bekasi dan The Park Mall Summarecon Bekasi.
+        Itulah beberapa budaya yang dapat kamu temukan di Summarecon Bekasi. Dengan mengenal sejarah dan budaya Summarecon Bekasi, kamu dapat lebih mengapresiasi dan memahami kawasan ini. Jangan lupa untuk mengunjungi Summarecon Bekasi dan merasakan pengalaman yang tak terlupakan di sana, ya!</p>
+        <div class="map"><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3966.284862312029!2d106.99850147370003!3d-6.226122260973585!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e698c71cf814d97%3A0xd22a5d56809f070a!2sSummarecon%20Mall%20Bekasi!5e0!3m2!1sid!2sid!4v1703056904219!5m2!1sid!2sid" width="400" height="330" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe></div>
+    </div>
+          
+        </div>
+
+        <!-- Toolbar-->
+        <div class="toolbar toolbar-bottom">
+            <div class="toolbar-inner">
+              <a href="/sumarecon/" class="item-content item-link">---Kembali---</a>
+            </div>
+          </div>
+          <!-- Scrollable page content-->
+      </div>
+  </template>
+  <script>
+  export default () => {
+    return $render;
+  }
+  </script>
